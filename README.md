@@ -7,7 +7,7 @@
 
 ## Appendix
 
-- [click my](https://github.com/IlyasAlzailai/html--css/)
+- [click my](https://github.com/IlyasAlzailai/html--css/index.html)
 
 
 ## Badges
