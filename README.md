@@ -7,7 +7,7 @@
 
 ## Appendix
 
-- [click my](https://github.com/IlyasAlzailai/html--css/blob/elyas/index.html)
+- [click my](https://github.com/IlyasAlzailai/html--css/)
 
 
 ## Badges
